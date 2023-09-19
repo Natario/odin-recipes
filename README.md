@@ -1,0 +1,1 @@
+This repo contains code for The Odin Project's tutorials, e.g. https://www.theodinproject.com/lessons/foundations-recipes
